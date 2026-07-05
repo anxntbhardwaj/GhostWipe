@@ -1,0 +1,6 @@
+{
+  "name": "GhostWipe",
+  "description": "Free, minimal, 100% offline-first EXIF and metadata remover. Instantly purges GPS geolocations, camera serials, creator IDs, and AI generation tags in-browser.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
